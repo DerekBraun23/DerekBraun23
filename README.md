@@ -1,4 +1,4 @@
-How can I ensure that my code, program, or software is functional and secure? I use effective quality assurance methods. This includes reverse engineering with assembly and
+I use effective quality assurance methods. This includes reverse engineering with assembly and
 binary code, as well as writing professional JUnit tests. I am confident my JUnit tests implmented in the attached .java file(s) (CS320_Project.zip) have a specific goal to properly
 diagnose and test the program's output/results, EXACTLY how the customer requested.
 
